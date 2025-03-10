@@ -153,18 +153,10 @@ ollama.process_announcements_with_ollama_batch(base_output_dir, announcements_da
 - **LLM Integration:** REST API calls to Ollama with robust retry mechanisms
 - **Data Storage:** JSON and CSV for maximum compatibility
 
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
 ## 📧 Contact
 
 For questions and feedback, open an issue or contact:  
-[your-email@example.com](mailto:your-email@example.com)
+[your-email@example.com](mailto:raghulstar1302@gmail.com)
 
 ---
 
