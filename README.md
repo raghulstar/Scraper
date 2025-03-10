@@ -156,7 +156,7 @@ ollama.process_announcements_with_ollama_batch(base_output_dir, announcements_da
 ## 📧 Contact
 
 For questions and feedback, open an issue or contact:  
-[your-email@example.com](mailto:raghulstar1302@gmail.com)
+[raghulstar1302@gmail.com](mailto:raghulstar1302@gmail.com)
 
 ---
 
