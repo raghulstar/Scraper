@@ -1,8 +1,6 @@
 # 📈 BSE Announcement Scraper & Analyzer
 
 ![BSE Scraper Banner](https://img.shields.io/badge/BSE-Announcement%20Scraper-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS10cmVuZGluZy11cCI+PHBvbHlsaW5lIHBvaW50cz0iMjMgNiAyMyAxIDEgMSI+PC9wb2x5bGluZT48cG9seWxpbmUgcG9pbnRzPSIxIDIzIDIzIDIzIDIzIDE2Ij48L3BvbHlsaW5lPjxsaW5lIHgxPSIxIiB5MT0iMTIiIHgyPSI4IiB5Mj0iMTIiPjwvbGluZT48bGluZSB4MT0iMTYiIHkxPSIxMiIgeDI9IjIzIiB5Mj0iMTIiPjwvbGluZT48cGF0aCBkPSJtOCAyMyA0LTEyIDQgMTIiPjwvcGF0aD48cGF0aCBkPSJNMSA2IDggNmw3IDEwIDcgLTEwaDIiPjwvcGF0aD48L3N2Zz4=)
-![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)
-![LLM: Ollama](https://img.shields.io/badge/LLM-Ollama-green.svg)
 
 A powerful tool to scrape, process, and analyze Bombay Stock Exchange (BSE) company announcements with advanced PDF extraction capabilities and LLM-based information extraction.
 
